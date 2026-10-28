@@ -1,2 +1,0 @@
-print("too")
-print("hii")
